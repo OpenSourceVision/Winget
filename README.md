@@ -41,6 +41,13 @@ winget install -e --id Microsoft.VisualStudioCode --silent --accept-package-agre
 winget install -e --id amir1376.ABDownloadManager --silent --accept-package-agreements --accept-source-agreements
 ```
 
+### 安装 PotPlayer
+安装功能强大的多媒体播放器，支持多种视频格式
+
+```powershell
+winget install -e --id Daum.PotPlayer --silent --accept-package-agreements --accept-source-agreements
+```
+
 ### 安装 7-Zip
 安装压缩软件，支持多种压缩格式
 
