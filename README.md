@@ -1,5 +1,18 @@
 # Windows 软件安装脚本
 
+### 升级软件
+
+升级软件
+```
+winget upgrade
+```
+静默安装
+```
+winget upgrade --all --silent
+```
+
+
+
 ## 系统工具更新
 
 ### 升级应用安装程序
@@ -71,3 +84,4 @@ winget install -e --id 7zip.7zip --silent --accept-package-agreements --accept-s
 ```powershell
 winget install -e --id Tencent.WeChat --silent --accept-package-agreements --accept-source-agreements
 ```
+
