@@ -107,7 +107,6 @@ winget install -e --id Tencent.WeChat --silent --accept-package-agreements --acc
 1. 以管理员身份运行 PowerShell
 2. 复制所需的安装命令并执行
 3. 所有命令均使用静默安装模式，无需手动点击
-4. 自动接受软件协议和源协议
 
 ## 💡 提示
 
@@ -116,5 +115,3 @@ winget install -e --id Tencent.WeChat --silent --accept-package-agreements --acc
 - 可以使用 `winget search <软件名>` 搜索更多软件
 
 ---
-
-**⭐ 如果这个脚本对你有帮助，欢迎 Star！**
