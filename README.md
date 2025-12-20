@@ -1,4 +1,4 @@
-# 🪟 Windows 软件安装脚本
+# Windows 软件安装脚本
 
 一键安装和管理 Windows 常用软件的 PowerShell 脚本集合。
 
