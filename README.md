@@ -17,7 +17,7 @@ winget upgrade
 静默升级所有软件：
 
 ```powershell
-winget upgrade --all --silent
+winget upgrade --all --silent --accept-package-agreements --accept-source-agreements
 ```
 
 ---
