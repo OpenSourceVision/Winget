@@ -100,6 +100,14 @@ winget install -e --id 7zip.7zip --silent --accept-package-agreements --accept-s
 winget install -e --id Tencent.WeChat --silent --accept-package-agreements --accept-source-agreements
 ```
 
+### 钉钉
+
+阿里巴巴官方企业沟通和协作平台。
+
+```powershell
+winget install -e --id Alibaba.DingTalk --silent --accept-package-agreements --accept-source-agreements
+```
+
 ---
 
 ## 📝 使用说明
