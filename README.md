@@ -62,6 +62,14 @@ winget install -e --id Microsoft.VisualStudioCode --silent --accept-package-agre
 
 ---
 
+### Typedown
+
+轻量级的 Markdown 编辑器，适合写作与笔记。
+
+```powershell
+winget install -e --id 9P8TCW4H2HB4 --source msstore --silent --accept-package-agreements --accept-source-agreements
+```
+
 ## 🛠️ 实用工具
 
 ### AB 下载管理器
@@ -98,14 +106,6 @@ winget install -e --id 7zip.7zip --silent --accept-package-agreements --accept-s
 
 ```powershell
 winget install -e --id Tencent.WeChat --silent --accept-package-agreements --accept-source-agreements
-```
-
-### 钉钉
-
-阿里巴巴官方企业沟通和协作平台。
-
-```powershell
-winget install -e --id Alibaba.DingTalk --silent --accept-package-agreements --accept-source-agreements
 ```
 
 ---
